@@ -1,0 +1,94 @@
+{
+  "result": [
+    {
+      "no": "1",
+      "nama": "Nasi Goreng",
+      "asal": "Nasional",
+      "bahan_utama": "Nasi, kecap, telur, ayam/udang",
+      "deskripsi": "Nasi yang digoreng dengan bumbu khas Indonesia, sering disajikan dengan telur mata sapi dan kerupuk.",
+      "jenis": "Makanan Utama",
+      "foto": "https://i.postimg.cc/56FQvKCd/nasigoreng.jpg"
+    },
+    {
+      "no": "2",
+      "nama": "Rendang",
+      "asal": "Sumatera Barat",
+      "bahan_utama": "Daging sapi, santan, rempah-rempah",
+      "deskripsi": "Daging sapi yang dimasak lama dengan santan dan bumbu rempah hingga kering dan berwarna gelap.",
+      "jenis": "Makanan Utama",
+      "foto": "i.postimg.cc/QFG9qgQB/rendang.jpg"
+    },
+    {
+      "no": "3",
+      "nama": "Sate Ayam",
+      "asal": "Jawa",
+      "bahan_utama": "Daging ayam, bumbu kacang",
+      "deskripsi": "Potongan daging ayam yang ditusuk dan dibakar, disajikan dengan bumbu kacang manis pedas.",
+      "jenis": "Makanan Utama",
+      "foto": "https://i.postimg.cc/Y4tv5pyM/sateayam.jpg"
+    },
+    {
+      "no": "4",
+      "nama": "Gado-Gado",
+      "asal": "Jakarta",
+      "bahan_utama": "Sayuran rebus, telur, tahu, tempe, lontong, bumbu kacang",
+      "deskripsi": "Salad sayuran rebus Indonesia yang disiram dengan saus kacang, sering dilengkapi kerupuk.",
+      "jenis": "Salad/Makanan Ringan",
+      "foto": "https://i.postimg.cc/bdrtYwYv/gadogado.jpg"
+    },
+    {
+      "no": "5",
+      "nama": "Pempek",
+      "asal": "Palembang",
+      "bahan_utama": "Ikan tenggiri, sagu",
+      "deskripsi": "Makanan khas Palembang berbahan dasar ikan dan sagu, disajikan dengan kuah cuka (cuko).",
+      "jenis": "Jajanan/Makanan Ringan",
+      "foto": "https://i.postimg.cc/Jz0j6hFm/pempek.jpg"
+    },
+    {
+      "no": "6",
+      "nama": "Gudeg",
+      "asal": "Yogyakarta",
+      "bahan_utama": "Nangka muda, santan, gula aren",
+      "deskripsi": "Masakan khas Yogyakarta dari nangka muda yang dimasak dengan santan dan gula aren hingga empuk dan manis.",
+      "jenis": "Makanan Utama",
+      "foto": "https://i.postimg.cc/9zkqDHzY/gudeg.jpg"
+    },
+    {
+      "no": "7",
+      "nama": "Bakso",
+      "asal": "Nasional (pengaruh Tionghoa)",
+      "bahan_utama": "Daging sapi giling, tepung tapioka",
+      "deskripsi": "Bola daging yang terbuat dari daging sapi giling dan tepung tapioka, disajikan dengan kuah kaldu, mi, dan sayuran.",
+      "jenis": "Sup/Makanan Utama",
+      "foto": "https://i.postimg.cc/n9Xj30Sm/bakso.jpg"
+    },
+    {
+      "no": "8",
+      "nama": "Soto Ayam",
+      "asal": "Jawa Timur (populer di banyak daerah)",
+      "bahan_utama": "Ayam, kunyit, bihun, tauge",
+      "deskripsi": "Sup ayam khas Indonesia dengan kuah kuning bening beraroma kunyit, disajikan dengan suwiran ayam, bihun, dan tauge.",
+      "jenis": "Sup/Makanan Utama",
+      "foto": "https://i.postimg.cc/0MBrK75y/sotoayam.jpg"
+    },
+    {
+      "no": "9",
+      "nama": "Tahu Gejrot",
+      "asal": "Cirebon",
+      "bahan_utama": "Tahu pong, bawang merah, cabai rawit, gula merah",
+      "deskripsi": "Potongan tahu pong yang disiram dengan kuah asam manis pedas yang terbuat dari gula merah, cabai, dan bawang.",
+      "jenis": "Jajanan",
+      "foto": "https://i.postimg.cc/5Y06tsVr/tahugejrot.jpg"
+    },
+    {
+      "no": "10",
+      "nama": "Rawon",
+      "asal": "Jawa Timur",
+      "bahan_utama": "Daging sapi, kluwek",
+      "deskripsi": "Sup daging berkuah hitam khas Jawa Timur yang menggunakan kluwek sebagai bumbu utama pemberi warna dan rasa.",
+      "jenis": "Sup/Makanan Utama",
+      "foto": "https://i.postimg.cc/cKTvZVVY/rawon.jpg"
+    }
+  ]
+}
